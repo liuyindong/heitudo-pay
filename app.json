@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/list/list",
+    "pages/order/balance/balance",
+    "pages/mine/mine",
+    "pages/order/list/list",
+    "pages/order/detail/detail",
+    "pages/cut/cut"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#FF8C00",
+    "navigationBarTitleText": "黄焖鸡米饭",
+    "navigationBarTextStyle": "white"
+  },
+  "sitemapLocation": "sitemap.json"
+}
